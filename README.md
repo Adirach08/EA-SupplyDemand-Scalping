@@ -1,4 +1,4 @@
-# EA Supply-Demand Scalping
+# EA Supply-Demand & Support-Resistance Scalping
 Expert Advisor (EA) untuk MetaTrader 5 menggunakan analisa Supply & Demand dan Support & Resistance.
 
 ## Fitur:
